@@ -13,7 +13,7 @@
     "type": "library",
     "minimum-stability": "stable",
     "require": {
-        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/guzzle": "^6.5",
         "ext-json": "*"
     },
     "require-dev": {
